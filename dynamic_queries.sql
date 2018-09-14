@@ -1,5 +1,4 @@
---KRIS RUTHERFORD
---HW 10
+
 SET serveroutput ON size 1000000
 /
 --PROBLEM 1
